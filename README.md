@@ -65,8 +65,8 @@ Stack Rank: higher ranked tasks (larger numeric value) have dependencies on lowe
 | a scheduled firebase function to query reddit api (new post) | 0 | Done |
 | save reddit api results to firebase firestore | 1 | Done |
 | a scheduled firebase function to clean up old comments | 1 | Done |
-| access saved data from client side | 2 | Todo |
-| visualize data with plotly | 3 | Todo |
+| access saved data from client side | 2 | Done |
+| visualize data with plotly | 3 | Done |
 
 ## Scalability
 
